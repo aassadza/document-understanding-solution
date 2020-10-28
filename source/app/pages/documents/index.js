@@ -167,12 +167,9 @@ function Documents({
           className={css.searchBar}
           light
           suggestions={ENABLE_KENDRA && [
-            'What is diabetes?',
-            'What are the types of diabetes?',
-            'How many people have diabetes?',
-            'How to manage kidney disease',
-            'Does high blood pressure cause kidney disease?',
-            'How to prevent kidney disease'
+            'What is Muscular Dystrophy?',
+            'Is there a cure for Muscular Dystrophy?',
+            'Is Muscular Dystrophy rare?'
           ]}
         />
       </div>
